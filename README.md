@@ -6,6 +6,8 @@ To use the script, download and run `sh pi102825_group_creater.sh <name of stati
 
 Run without arguments for full syntax and examples.
 ```
+% sh pi102825_group_creater.sh   
+
 Create static groups, enough for 100 devices per group
 
   usage: pi102825_group_creater.sh <name of static group, a number starting at 1 will be added> [ full jss URL ]
