@@ -30,7 +30,7 @@
 
 ###################
 # pi102825_group_creater.sh - script to create static groups of devices for PI102825
-# Shannon Pasto <shannon.pasto at jamf.com>
+# Shannon Pasto https://github.com/shannonpasto/PI102825GroupCreater-jamf
 #
 # v1.2 (12/09/2025)
 ###################
